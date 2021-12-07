@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.hdsmtiger.xrecideaplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.hdsmtiger.xrecideaplugin.MyBundle
 
 class MyApplicationService {
 
